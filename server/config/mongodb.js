@@ -1,0 +1,1 @@
+module.exports = "mongodb://full-stack:gno654171@full-stack-shard-00-00-z6suq.mongodb.net:27017,full-stack-shard-00-01-z6suq.mongodb.net:27017,full-stack-shard-00-02-z6suq.mongodb.net:27017/fullstack?ssl=true&replicaSet=full-stack-shard-0&authSource=admin";
